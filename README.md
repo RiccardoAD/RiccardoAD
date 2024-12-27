@@ -5,22 +5,42 @@
 <p align="left">Ciao sono Riccardo, ex hair-stylist , che si è riscoperto Front-end developer.</p>
 
 
-<p align="left">I'm Riccardo from Parma, Italy<br><br>- 📚 I'm currently learning Full stack Developer with EPICODE school</p>
+<p align="left">I'm Riccardo from Parma, Italy<br><br>- 📚 I'm currently learning Full stack Developer with EPICODE noww a WEB DESIGNER</p>
 
 <hr>
-<h3>QUALCOSA SU DI ME:</h3>
-<p> 🌱Ho da poco completato il mio percorso di studi come Full-Stack developer in EPICODE.</p>
+<h3>INFO:</h3>
+
 <p> 💼 Cerco opportunità di lavoro, che possano ulteriormente aiutarmi a crescere e a coltivare questa nuova passione che è il coding.</p>
 
+<p> 💼 I am looking for job opportunities that can further help me grow and cultivate this new passion for coding.</p>
+
 <hr>
-<h3>COMPETENZE:</h3>
-<h4>Front-End</h4>
-<p> 💻 HTML, CSS e JavaScript: Fondamentali per la creazione di interfacce web interattive e responsive.</p>
-<p> 🚀 Frameworks come React.js: Per la creazione di applicazioni web moderne e scalabili.</p>
-<p> 🎨 Design e UX/UI: Per garantire un'esperienza utente coinvolgente e intuitiva.</p>
-<h4>Back-End</h4>
-<p> 🧑🏻‍💻 Php e Laravel: Per la gestione delle logiche di back end e database e per l'integrazione di API.</p>
-<hr>
+<div style="display: flex; justify-content: space-between;">
+
+  <div>
+    <h5>Front-end:</h5>
+    <div>
+      <img src="https://img.shields.io/badge/html-239120?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML" title="HTML">
+      <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS" title="CSS">
+      <img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&amp;logo=sass&amp;logoColor=white" alt="SCSS" title="SCSS">
+            <img src="https://img.shields.io/badge/bootstrap-563D7C?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" alt="Bootstrap" title="Bootstrap">
+      <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" title="JavaScript">
+      <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" title="TypeScript">
+      <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=black" alt="React" title="React">
+           <img src="https://img.shields.io/badge/redux-593d88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" title="Redux">
+    </div>
+  </div>
+  <div>
+    <h5>Back-end:</h5>
+    <div>
+      <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&amp;logo=php&amp;logoColor=white" alt="PHP" title="PHP">
+       <img src="https://img.shields.io/badge/mysql-00000f?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" title="MySQL">
+      <img src="https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&amp;logo=laravel&amp;logoColor=white" alt="Laravel" title="Laravel">
+      <img src="https://img.shields.io/badge/wordpress-21759B?style=for-the-badge&amp;logo=wordpress&amp;logoColor=white" alt="WordPress" title="WordPress">
+    </div>
+  </div>
+</div>
+
 
 <h3>CONTATTI:</h3>
 
