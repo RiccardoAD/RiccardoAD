@@ -5,7 +5,13 @@
 <p align="left">Ciao sono Riccardo, ex hair-stylist , che si è riscoperto Front-end developer.</p>
 
 
-<p align="left">I'm Riccardo from Parma, Italy<br><br>- 📚 I'm currently learning Full stack Developer with EPICODE noww a WEB DESIGNER</p>
+<p align="left">I'm Riccardo from Parma, Italy<br><br>- 📚 I have learn Full stack Developer with EPICODE now i'm a WEB DESIGNER</p>
+ 
+
+ <div style="flex: 0 0 auto; margin-left: 20px;">
+    <img src="./assets/nomai.png" alt="nomai moon" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+  </div>
+
 
 <hr>
 <h3>INFO:</h3>
