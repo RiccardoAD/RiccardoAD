@@ -42,7 +42,6 @@
       <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&amp;logo=php&amp;logoColor=white" alt="PHP" title="PHP">
        <img src="https://img.shields.io/badge/mysql-00000f?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" title="MySQL">
       <img src="https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&amp;logo=laravel&amp;logoColor=white" alt="Laravel" title="Laravel">
-      <img src="https://img.shields.io/badge/wordpress-21759B?style=for-the-badge&amp;logo=wordpress&amp;logoColor=white" alt="WordPress" title="WordPress">
     </div>
   </div>
 </div>
@@ -77,6 +76,7 @@
 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="28" alt="git logo"  />
+  <img src="https://img.shields.io/badge/wordpress-21759B?style=for-the-badge&amp;logo=wordpress&amp;logoColor=white" alt="WordPress" title="WordPress">
 </div>
 
 ###
