@@ -1,12 +1,12 @@
-<h1 align="left">hey there 👋</h1>
+<div align="center"><h1 align="center">Hi 👋, I'm Rick</h1>
+   
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/320px-Flag_of_Italy.svg.png" alt="Italian Flag" width="50px" height="35px">
+<h3 align="center">  Ciao, mi chiamo Riccado e vengo dall'Italia. Sono uno sviluppatore web  full-stack. Sono appassionato di UX/UI , front-end  e le mie competenze includono JavaScript, HTML, CSS, Bootstrap, Tailwind, React, PHP, Laravel, WordPress, Sass, Redux, next.js, figma.</h3>
+
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/320px-Flag_of_the_United_Kingdom.svg.png" alt="English Flag" width="50px" height="35px">
+<h3 align="center"> I'm a full-stack Web developer. I'm passionate about Web design and my skill set includes JavaScript, HTML, CSS, Bootstrap,Tailwind, React, PHP, Laravel, WordPress, Sass, Redux, next.js,figma .</h3>
 
 ###
-  
-<p align="left">Ciao sono Riccardo, ex hair-stylist , che si è riscoperto Front-end developer.</p>
-
-
-<p align="left">I'm Riccardo from Parma, Italy<br><br>- 📚 I have learn Full stack Developer with EPICODE now i'm a WEB DESIGNER</p>
- 
 
  <div style="flex: 0 0 auto; margin-left: 20px;">
     <img src="./assets/nomai.png" alt="nomai moon" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
